@@ -8,4 +8,6 @@ HiTIDE, the High-level Tool for Interactive Data Extraction, allows users to sub
 - https://github.com/podaac/concise
 - https://github.com/podaac/forge
 - https://github.com/podaac/tig
+- https://github.com/podaac/forge-tig-configuration
+- https://github.com/podaac/cmr-umm-updater
 - hitide-backfill-tool (Not published)
