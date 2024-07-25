@@ -18,4 +18,5 @@ flowchart TB
     h3-->c6[Enable in Cumulus]
     c6-->c7[Test in HiTIDE UAT]
     end
+    click h1 "https://github.com/podaac/hitide/blob/main/merge-pr.md" "Details" _blank
 ```
