@@ -18,5 +18,5 @@ flowchart TB
 
 ##### Next Steps:
 
-* Enable HiTIDE [Add Services](add-collection/enable-services.md)
-* Verify HiTIDE [Collection Info](add-collection/enable-services.md)
+* Enable HiTIDE [Add Services](enable-services.md)
+* Verify HiTIDE [Collection Info](enable-services.md)
